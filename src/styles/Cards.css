@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.cards-wrapper{
+    background: linear-gradient(to bottom, #67d4ff, #1886b9);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+    transition: 0.6s;
+    font-family: 'Poppins', sans-serif;
+    width: 300px;
+    height: 400px;
+}
+
+.cards-wrapper:hover{
+    cursor: pointer;
+    background: #9ae8fc;
+}
+
